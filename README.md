@@ -1,5 +1,5 @@
 # Установка и настройка VPN-сервера на протоколе Hysteria 2
-Автор статьи: `VPN cat` ([я в Telegram](https://t.me/Cr0wXD), [мой Telegram канал](https://t.me/+n1658FX-B0NlMTNh), [мой GitHub](https://github.com/VPN-cat))
+Автор статьи: `VPN cat` ([я в Telegram](https://t.me/Cr0wXD), [наш Telegram канал](https://t.me/vpn_cat), [мой GitHub](https://github.com/VPN-cat))
 ## Введение
 Эта статья - пошаговое руководство для новичков, которые хотят самостоятельно настроить свой собственный VPN-сервер на протоколе Hysteria 2. Вам не нужны глубокие знания Linux или сетевых технологий - достаточно уметь копировать команды и внимательно следовать инструкции.
 #### Что такое Hysteria 2?

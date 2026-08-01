@@ -303,6 +303,6 @@ iOS:
 ## Автор
 Автор статьи: `VPN cat`
 * [Я в Telegram](https://t.me/Cr0wXD)
-* [Мой Telegram канал](https://t.me/+1h4fBXuu9TE5ZDlh)
+* [Мой Telegram канал](https://t.me/vpn_cat)
 * [Мой GitHub](https://github.com/VPN-cat)
 
